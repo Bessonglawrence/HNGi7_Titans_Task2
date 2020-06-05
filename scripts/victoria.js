@@ -1,10 +1,1 @@
-const myself = {
-    firstname: "Victoria",
-    lastname: "Adegboye",
-    Id: "HNG-00157",
-    Email: "bv.adegboye@gmail.com",
-    Language: "Javascript"
-}
-const message = `Hello world, this is ${myself.firstname} ${myself.lastname} with HNGi7 ID ${myself.Id} and email ${myself.Email} using ${myself.Language} for stage 2 task`;
-
-console.log(message);
+console.log("Hello World, this is Victoria Adegboye with HNGi7 ID HNG-00157 and email bv.adegboye@gmail.com using javascript for stage 2 task");
